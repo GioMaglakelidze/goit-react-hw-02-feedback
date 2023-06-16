@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GioMaglakelidze/goit-react-hw-02-feedback/static/css/main.bd70fbc0.css",
+    "main.js": "/GioMaglakelidze/goit-react-hw-02-feedback/static/js/main.8e86d633.js",
+    "index.html": "/GioMaglakelidze/goit-react-hw-02-feedback/index.html",
+    "main.bd70fbc0.css.map": "/GioMaglakelidze/goit-react-hw-02-feedback/static/css/main.bd70fbc0.css.map",
+    "main.8e86d633.js.map": "/GioMaglakelidze/goit-react-hw-02-feedback/static/js/main.8e86d633.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd70fbc0.css",
+    "static/js/main.8e86d633.js"
+  ]
+}
